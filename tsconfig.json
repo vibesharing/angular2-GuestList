@@ -23,11 +23,18 @@
     "rewriteTsconfig": true
   },
   "files": [
+    "./dev/addGuest/addGuest.component.ts",
     "./dev/app.component.ts",
     "./dev/boot.ts",
     "./dev/comp1-main.component.ts",
     "./dev/comp2-sub.component.ts",
     "./dev/component1.component.ts",
-    "./dev/component2.component.ts"
+    "./dev/component2.component.ts",
+    "./dev/GuestDetail/guestDetail.component.ts",
+    "./dev/guestList/guestList.component.ts",
+    "./dev/home/home.component.ts",
+    "./dev/services/guest.ts",
+    "./dev/services/guestList.service.ts",
+    "./dev/services/mock-guest-list.ts"
   ]
 }
